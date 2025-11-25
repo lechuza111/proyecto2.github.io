@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="es-ES">
+
+<head>
+
+<meta charset="utf-8">
+
+         <title>Precio Y horarios</title>
+
+     </head>
+<p>Horarios y precios:</p>
+
+<table border="1">
+    <tr>
+      <th>Clases</th>
+      <th>Coste</th>
+      <th>Duración</th>
+    </tr>
+    <tr>
+      <td>Matemáticas</td>
+      <td>10$</td>
+      <td>2 horas</td>
+    </tr>
+    <tr>
+      <td>Lengua</td>
+      <td>7$</td>
+      <td>2 horas</td>
+    </tr>
+    <tr>
+      <td>Ingles</td>
+      <td>10$</td>
+      <td>1 hora</td>
+    </tr>
+  </table>
+ 
+<p>También podemos enseñar otras asignatura , pero estas asignaturas costaron un poco más,usted puede elegir la asignatura y la duración de la lección,(el precio será acordada antes)</p>
+<p>abajo tendras algun link que te podria interesar<p>
+
